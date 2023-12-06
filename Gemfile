@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://tomflemingart.com'
 gem 'jekyll'
 
 group :jekyll_plugins do
